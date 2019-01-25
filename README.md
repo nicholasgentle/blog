@@ -1,7 +1,7 @@
 <html>
  
  <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
+      {% if https://nicholasgentle.github.io/nicognito/ and https://nicholasgentle.github.io/nicognito/ != page.title %}
       <h1><a href="{{ "/" | https://nicholasgentle.github.io/nicognito/}}">{{ site.title }}</a></h1>
 {% endif %}
   
